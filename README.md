@@ -2,7 +2,7 @@
 
 Steam판 **Randal's Monday (게임 버전 1.0.3)** 용 팬 한글 패치입니다.
 
-- 무료·비상업 팬 번역입니다.
+- 무료·비영리 팬 번역입니다.
 - 배급사 **Daedalic Entertainment의 허락**을 받아 배포합니다. (2026년 11월 16일, Daedalic 현지화 담당자 회신)
 - 게임 원본 파일은 들어 있지 않습니다. 원본과 바뀐 부분만 들어 있어서, 정품 게임이 설치된 PC에서만 동작합니다.
 - 게임의 모든 권리는 개발사 Nexus Game Studios와 배급사 Daedalic Entertainment에 있습니다.
