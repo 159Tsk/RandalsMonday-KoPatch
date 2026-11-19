@@ -1,2 +1,62 @@
-# RandalsMonday-KoPatch
-Randal's Monday 비공식 한글 패치 (Steam 1.0.3) / Unofficial Korean fan translation, distributed with permission from Daedalic Entertainment
+# 랜달스 먼데이 (Randal's Monday) 비공식 한글 패치
+
+Steam판 **Randal's Monday (게임 버전 1.0.3)** 용 팬 한글 패치입니다.
+
+- 무료·비상업 팬 번역입니다.
+- 배급사 **Daedalic Entertainment의 허락**을 받아 배포합니다. (2026년 11월 16일, Daedalic 현지화 담당자 회신)
+- 게임 원본 파일은 들어 있지 않습니다. 원본과 바뀐 부분만 들어 있어서, 정품 게임이 설치된 PC에서만 동작합니다.
+- 게임의 모든 권리는 개발사 Nexus Game Studios와 배급사 Daedalic Entertainment에 있습니다.
+
+## 다운로드
+
+오른쪽 **Releases** 에서 최신 버전을 받으세요.
+릴리스 페이지 아래쪽 **Assets** 에 있는 `RandalsMonday_KoPatch_1.0.3.zip` 을 누르면 내려받아집니다.
+
+## 한글화 범위
+
+**기본 설치 (`install.bat`)**
+- 모든 대사 자막, 조사·사용 대사, 아이템·장소 이름표
+- 힌트, 메뉴·설정 화면
+- 게임 속 쪽지·편지
+- 원래 자막이 없던 컷씬 2개에 한글 자막 추가 (게임 시작 도입부 나레이션 등)
+
+**선택 설치 (`install_images.bat`)**
+- 아이템을 크게 볼 때 나오는 그림 속 글씨 (신문, 전단지)
+- 그림 위에 한글을 다시 그린 것이라 원본 글씨체와 느낌이 다릅니다. 취향에 따라 선택하세요.
+
+**바꾸지 않은 것**
+- 음성 (영어 그대로)
+- 길거리 간판·표지판
+- 말장난이 핵심인 일부 제목, 신문 이름, 일부 로고
+
+## 설치 방법
+
+1. 게임을 완전히 끕니다.
+2. 압축을 풀어서 나온 `RandalsMonday_KoPatch` 폴더를 게임 설치 폴더(`Randals.exe`가 있는 곳) 안에 넣습니다.
+   - Steam 라이브러리에서 게임 우클릭 > 관리 > 로컬 파일 보기
+3. `RandalsMonday_KoPatch` 폴더의 `install.bat` 를 실행합니다. (1~2분)
+   - Windows가 "PC 보호" 창을 띄우면 [추가 정보] > [실행]
+4. 게임 설정 > 언어에서 텍스트를 **한국어**로 바꿉니다. (음성은 영어 그대로)
+5. (선택) 그림까지 한글로 보려면 `install_images.bat` 도 실행합니다.
+
+되돌리기: `uninstall_images.bat` (그림만), `uninstall.bat` (전부)
+
+자세한 내용과 문제 해결은 압축 파일 안의 `README.txt` 를 참고하세요.
+
+## 필요 조건
+
+- Steam 정품, 게임 버전 1.0.3 (GOG 등 다른 판본은 확인하지 못했습니다)
+- Windows 10 / 11
+- 설치 전에 원본 파일을 확인합니다. 다른 버전이거나 다른 패치가 적용된 게임에는 아무것도 바꾸지 않고 멈춥니다.
+
+## 오역·오류 제보
+
+이 저장소의 **Issues** 에 남겨 주세요. 장면 스크린샷이 있으면 큰 도움이 됩니다.
+
+## 만든 사람과 라이선스
+
+- 번역·패치 제작: 159T with Claude
+- 한글 폰트: Noto Sans CJK / Noto Serif CJK (SIL Open Font License 1.1)
+
+이 패치는 무료로만 배포할 수 있습니다. 판매하거나 유료 서비스에 포함하지 마세요.
+권리자의 요청이 있으면 배포를 중단합니다.
