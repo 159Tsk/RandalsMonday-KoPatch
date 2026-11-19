@@ -7,6 +7,17 @@ Steam판 **Randal's Monday (게임 버전 1.0.3)** 용 팬 한글 패치입니�
 - 게임 원본 파일은 들어 있지 않습니다. 원본과 바뀐 부분만 들어 있어서, 정품 게임이 설치된 PC에서만 동작합니다.
 - 게임의 모든 권리는 개발사 Nexus Game Studios와 배급사 Daedalic Entertainment에 있습니다.
 
+## 미리보기
+
+![대사 선택지](screenshots/dialogue.png)
+
+<p>
+<img src="screenshots/newspaper.jpg" alt="신문 (선택 설치)" width="58%">
+<img src="screenshots/flyer.jpg" alt="전단지 (선택 설치)" width="35%">
+</p>
+
+신문·전단지 그림은 선택 설치(`install_images.bat`) 항목입니다.
+
 ## 다운로드
 
 오른쪽 **Releases** 에서 최신 버전을 받으세요.
